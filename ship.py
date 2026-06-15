@@ -1,3 +1,4 @@
+from pathlib import Path
 import pygame
 
 class Ship:
